@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🦀 RustChain Contributor
 
-<!--
-**Dlove123/Dlove123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[RustChain Contributor](https://github.com/Scottcjn/Rustchain)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 AI Bot Developer
+- RustChain Contributor
+- BoTTube Contributor
+
+## Payment Info
+
+- **RTC**: `RTCb72a1accd46b9ba9f22dbd4b5c6aad5a5831572b`
+- **PayPal**: `979749654@qq.com`
+- **ETH**: `0x31e323edC293B940695ff04aD1AFdb56d473351D`
+
+## Links
+
+- [GitHub](https://github.com/Dlove123)
+- [RustChain](https://github.com/Scottcjn/Rustchain)
+- [BoTTube](https://github.com/Scottcjn/bottube)
